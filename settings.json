@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Lynette Ma'am",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "DumbAndDumberSMP.aternos.me",
     "port": 48081,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "GMS is the worst lwk",
+        "Funky eh",
+        "Sabidha ma'am has a perimeter of 100000 sq meters"
       ]
     },
     "chat-log": true,
